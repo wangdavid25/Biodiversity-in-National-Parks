@@ -1,6 +1,6 @@
 # Biodiversity in National Parks
  
-# Summary:
+# Summary
 This is an exploration of National Parks' biodiversity and the conservation of animal and plants. We will investigate the conservation statuses of the species and look for any patterns of species that become endangered. We find mammals and birds to show the highest rates of being endangered. Vascular Plants are also the most abundant group and amphibians being the smallest group at the National Parks in this dataset.
 
 # Analysis
